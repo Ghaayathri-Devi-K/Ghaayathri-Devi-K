@@ -75,16 +75,11 @@ I'm an **MS Computer Science (AI) student at Purdue University**, working as an 
 
 ## 🚀 Key Projects
 
-### 🏥 [Healthcare NLQ-to-SQL Engine](https://github.com/Ghaayathri-Devi-K) *(Oct – Dec 2025)*
+### 🏥 [Healthcare NLQ-to-SQL Engine](https://github.com/Ghaayathri-Devi-K/healthcare-nlq-system) *(Oct – Dec 2025)*
 Hybrid NLQ-to-SQL system combining **LLM inference (Groq + LLaMA)** with template matching over **100K+ EHR records**
 - **~95% SQL generation accuracy** with sub-500ms response times
 - Cloud-native deployment: Docker, AWS EC2/S3, Neon PostgreSQL, FastAPI + React dashboard
 - ETL pipeline for FHIR-compliant Synthea healthcare data with audit logging
-
-### 📅 [Daily Education Loan Alert Automation](https://github.com/Ghaayathri-Devi-K) *(Jul – Sep 2025)*
-Autonomous, event-driven agentic pipeline for real-time financial tracking
-- **365 executions/year** with zero manual intervention via AWS Lambda + EventBridge
-- Multi-channel alerts (Email + Telegram) using AWS SNS and Google Sheets
 
 ### 🖼️ [Image Super-Resolution — KD-GAN](https://github.com/Ghaayathri-Devi-K/Image-Super-Resolution) *(Apr – Jun 2024)*
 Knowledge Distillation GAN for **4x image super-resolution** — **~94% SSIM** on benchmarks
