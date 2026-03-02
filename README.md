@@ -91,10 +91,18 @@ Knowledge Distillation GAN for **4x image super-resolution** — **~94% SSIM** o
 ## 📜 Certifications
 
 <p>
-  <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python%20Institute-PCAP%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/33510b67b98647b7b889e91317b998da" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-ML%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/9bad55900bf84dc5903e80c21f4e8c58" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Data%20Engineer%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+  <a href="https://cp.certmetrics.com/amazon/en/public/verify/credential/08c48d14047049a7bc144050de1c019b" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1Fzz6taHlJ63TdR9bdpvNNZR3WKCylQgZ/view" target="_blank">
+    <img src="https://img.shields.io/badge/Python%20Institute-PCAP%20Certified-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  </a>
 </p>
 
 ---
